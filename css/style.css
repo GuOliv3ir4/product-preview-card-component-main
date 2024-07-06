@@ -132,6 +132,10 @@ img {
 
 @media screen and (max-width: 570px) {
 
+    body {
+        height: 800px;
+    }
+
     h1 {
         width: 350px;
     }
@@ -141,7 +145,7 @@ img {
     }
 
     section.Product-perfume {
-        width: 85%;
+        width: 100%;
         height: auto;
         margin: 10px;
         border-radius: 20px;
